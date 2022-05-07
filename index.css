@@ -1,0 +1,143 @@
+html {
+    background-color: #e0ffff;
+}
+
+.com {
+    border: 5px solid #069A8E;
+    background-color: #069A8E;
+}
+
+#a {
+    border-radius: 40%;
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    margin-left: -50px;
+    margin-top: -104px;
+    width: 224px;
+    height: 208px;
+    border-radius: 50% 50% 50% 50% / 56% 56% 44% 44% ;
+}
+
+#b {
+    height: 160px;
+    width: 160px;
+    position: absolute;
+    transform: rotate(90deg);
+    top: 50%;
+    left: 40%;
+    border-radius: 50% 50% 50% 50%  / 35% 36% 64% 65%;
+    margin-top: -80px;
+}
+
+#c {
+    height: 50px;
+    width: 440px;
+    background-color: #125B50;
+    position: absolute;
+    top: 47%;
+    left: 42%;
+    z-index: 1;
+    border-radius: 10px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#d {
+    height: 70px;
+    width: 100px;
+    background-color: #125B50;
+    position: absolute;
+    border-radius: 30px 15px 15px 30px ;
+
+    top: 45.5%;
+    z-index: -1;
+    left: 68%;
+}
+.cc{
+    border: 1px solid #F7FF93;
+    width: 95%;
+    height: 0px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#in1 {
+    width: 90%;
+}
+#in2 {
+    width: 95%;
+}
+#in3 {
+    width: 95%;
+}
+#in4 {
+    width: 90%;
+}
+
+
+
+#in11{
+    border: 1px solid #F7FF93;
+    background-color: #069A8E;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 90%;
+}
+#in21{
+    border: 1px solid #F7FF93;
+    background-color: #069A8E;
+    width: 10px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 1;
+    margin-top: -5px;
+    left: 95%;
+}
+#in31{
+    border: 1px solid #F7FF93;
+    background-color: #069A8E;
+    width: 10px;
+    height: 8px;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 1;
+    margin-top: -5px;
+    left: 95%;
+}
+#in41{
+    border: 1px solid #F7FF93;
+    background-color: #069A8E;
+    width: 10px;
+    height: 10px;   
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    top: 1;
+    margin-top: -5px;
+    left: 90%;
+}
+#cir{
+    border: 9px solid ;
+    background-color: white ;
+    width: 70px;
+    height: 150%;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 5px;
+    margin-top: -20px;
+    left: -50px;
+}
+#e{
+    position: absolute;
+    z-index: 1 ;
+    width: 100%;
+    height: 100%;
+}
